@@ -1,3 +1,7 @@
+#Owns
+.vscode
+dist
+
 # Logs
 logs
 *.log

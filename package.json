@@ -1,0 +1,57 @@
+{
+  "name": "resthangul",
+  "version": "1.0.0",
+  "description": "API REST para el sistema de escritura del idioma coreano",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon dist/server.js",
+    "test": "mocha --reporter spec --compilers ts:ts-node/register test/**/*.spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leojim06/RESThangul.git"
+  },
+  "keywords": [
+    "Coreano",
+    "Hangul",
+    "API",
+    "REST"
+  ],
+  "author": "leojim06",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leojim06/RESThangul/issues"
+  },
+  "homepage": "https://github.com/leojim06/RESThangul#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "compression": "^1.6.2",
+    "express": "^4.15.3",
+    "helmet": "^3.6.1",
+    "mongoose": "^4.11.0",
+    "morgan": "^1.8.2",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.16.4",
+    "@types/chai": "^4.0.1",
+    "@types/chai-http": "0.0.30",
+    "@types/compression": "0.0.33",
+    "@types/express": "^4.0.36",
+    "@types/helmet": "0.0.35",
+    "@types/mongoose": "^4.7.18",
+    "@types/morgan": "^1.7.32",
+    "@types/passport": "^0.3.3",
+    "@types/passport-jwt": "^2.0.20",
+    "@types/passport-local": "^1.0.30",
+    "chai": "^4.0.2",
+    "chai-http": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.7",
+    "mocha": "^3.4.2",
+    "ts-node": "^3.1.0",
+    "typescript": "^2.4.1"
+  }
+}
