@@ -5,7 +5,7 @@ import * as chai from 'chai';
 import chaiHttp = require('chai-http');
 
 import app from '../src/server'
-// import Users from '../src/modules/users/user.model';
+import Users from '../src/modules/users/user.model';
 
 chai.use(chaiHttp);
 const expect = chai.expect;
@@ -30,18 +30,17 @@ const adminUserTest = {
 
 describe('RUTAS GENERALES', () => {
   beforeEach(async () => {
-    // let dropUsers = await Users.collection.drop();
-    // let createUser = await Users.create(userTest);
-    // let adminUser = await Users.create(adminUserTest);
+    let dropUsers = await Users.collection.drop();
+    let createUser = await Users.create(userTest);
+    let adminUser = await Users.create(adminUserTest);
   });
 
   describe('/', () => {
-    it('Debe tener un status 200 y el mensaje de Bienvenida \'Hello World シ\'', (done) => {
+    it('Debe tener un status 200 y enviar la página de documentación', (done) => {
       chai.request(app).get('/').end((err, res) => {
         expect(err).to.be.null;
         expect(res).to.have.status(200);
-        expect(res).to.be.json;
-        expect(res.body).to.equal('Hello world シ');
+        expect(res).to.be.html;
         done();
       });
     });
@@ -76,7 +75,7 @@ describe('RUTAS GENERALES', () => {
 describe('USERS', () => {
   describe('/signup', () => {
     it('Debe crear un nuevo usuario - base de datos vacia', (done) => {
-      // Users.collection.drop();
+      Users.collection.drop();
       chai.request(app)
         .post(`${usersURL}/signup`)
         .send(userTest)
