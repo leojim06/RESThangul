@@ -3,10 +3,10 @@
       { "id": 2, "jamo": "ㅓ", "tipo": "Vocal", "esc_rom": "eo", "esc_rom_nombre": "eo", "nombre": "어", "pron": "/o'/", "url": "어" },
       { "id": 3, "jamo": "ㅗ", "tipo": "Vocal", "esc_rom": "o", "esc_rom_nombre": "o", "nombre": "오", "pron": "/oh/", "url": "오" },
       { "id": 4, "jamo": "ㅜ", "tipo": "Vocal", "esc_rom": "u", "esc_rom_nombre": "u", "nombre": "우", "pron": "/u/", "url": "우" },
-      { "id": 5, "jamo": "ㅡ", "tipo": "Vocal", "esc_rom": "e", "esc_rom_nombre": "e", "nombre": "으", "pron": "/ue/'", "url": "으" },
+      { "id": 5, "jamo": "ㅡ", "tipo": "Vocal", "esc_rom": "eu", "esc_rom_nombre": "eu", "nombre": "으", "pron": "/eu'/", "url": "으" },
       { "id": 6, "jamo": "ㅣ", "tipo": "Vocal", "esc_rom": "i", "esc_rom_nombre": "i", "nombre": "이", "pron": "/i/", "url": "이" },
-      { "id": 7, "jamo": "ㅑ", "tipo": "Vocal", "esc_rom": "ya", "esc_rom_nombre": "ya", "nombre": "야", "pron": "/eya/", "url": "야" },
-      { "id": 8, "jamo": "ㅕ", "tipo": "Vocal", "esc_rom": "yeo", "esc_rom_nombre": "yeo", "nombre": "여", "pron": "/eyo/'", "url": "여" },
-      { "id": 9, "jamo": "ㅛ", "tipo": "Vocal", "esc_rom": "yo", "esc_rom_nombre": "yo", "nombre": "요", "pron": "/eo/", "url": "요" },
-      { "id": 10, "jamo": "ㅠ", "tipo": "Vocal", "esc_rom": "yu", "esc_rom_nombre": "yu", "nombre": "유", "pron": "/iu/", "url": "유" }
+      { "id": 7, "jamo": "ㅑ", "tipo": "Vocal", "esc_rom": "ya", "esc_rom_nombre": "ya", "nombre": "야", "pron": "/ya/", "url": "야" },
+      { "id": 8, "jamo": "ㅕ", "tipo": "Vocal", "esc_rom": "yeo", "esc_rom_nombre": "yeo", "nombre": "여", "pron": "/yeo'/", "url": "여" },
+      { "id": 9, "jamo": "ㅛ", "tipo": "Vocal", "esc_rom": "yo", "esc_rom_nombre": "yo", "nombre": "요", "pron": "/yo/", "url": "요" },
+      { "id": 10, "jamo": "ㅠ", "tipo": "Vocal", "esc_rom": "yu", "esc_rom_nombre": "yu", "nombre": "유", "pron": "/yu/", "url": "유" }
 ]
