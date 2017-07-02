@@ -1,11 +1,11 @@
 const devConfig = {
-  MONGO_URL: process.env.MONGO_URL || 'mongodb://localhost/japaneseapi-dev',
+  MONGO_URL: process.env.MONGO_URL || 'mongodb://localhost/RESThangul-dev',
 }
 const testConfig = {
-  MONGO_URL: process.env.MONGO_URL || 'mongodb://localhost/japaneseapi-test',
+  MONGO_URL: process.env.MONGO_URL || 'mongodb://localhost/RESThangul-test',
 }
 const prodConfig = {
-  MONGO_URL: process.env.MONGO_URL || 'mongodb://localhost/japaneseapi-prod',
+  MONGO_URL: process.env.MONGO_URL || 'mongodb://localhost/RESThangul-prod',
 }
 const defaultConfig = {
   PORT: process.env.PORT || 3000,
