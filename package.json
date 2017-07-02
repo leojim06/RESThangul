@@ -4,7 +4,7 @@
   "description": "API REST para el sistema de escritura del idioma coreano",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon dist/server.js",
+    "start": "node dist/server.js",
     "test": "mocha --reporter spec --compilers ts:ts-node/register test/**/*.spec.ts"
   },
   "repository": {
