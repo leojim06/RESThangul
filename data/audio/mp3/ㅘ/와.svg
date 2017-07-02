@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 33.866665 33.866667"
+   height="128"
+   width="128">
+  <title
+     id="title4635">와</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>와</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Oscar Javier Jiménez Mejía</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>leojim06</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>Coreano</dc:language>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>leojim06</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-263.13332)"
+     id="layer1">
+    <g
+       id="text4626"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.61458302px;line-height:100%;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       aria-label="ㅘ">
+      <path
+         id="path4632"
+         style="font-size:25.39999962px;stroke-width:0.26458332px"
+         d="m 25.131281,280.77979 v 11.24893 H 21.981086 V 268.1046 h 3.150195 v 10.0583 h 3.59668 v 2.61689 z m -3.844726,5.99033 q -7.30498,0.40928 -15.8005858,0.40928 l -0.3472656,-2.61689 q 3.646289,0 6.5484374,-0.0744 v -9.11572 h 3.125391 v 9.06611 q 3.472656,-0.0496 6.325195,-0.23564 z" />
+    </g>
+  </g>
+</svg>

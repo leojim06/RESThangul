@@ -1,0 +1,11 @@
+[
+    { "id": 32, "jamo": "ㅋ", "tipo": "consonante", "esc_rom": "k", "esc_rom_nombre": "kieuk", "nombre": "키읔", "pron": "/k'/", "url": "ㅋ" },
+    { "id": 24, "jamo": "ㄷ", "tipo": "consonante", "esc_rom": "d", "esc_rom_nombre": "digeut", "nombre": "디귿 ", "pron": "/d/ /t/", "url": "ㄷ" },
+    { "id": 33, "jamo": "ㅌ", "tipo": "consonante", "esc_rom": "t", "esc_rom_nombre": "tieut", "nombre": "티읕", "pron": "/th'/", "url": "ㅌ" },
+    { "id": 25, "jamo": "ㄹ", "tipo": "consonante", "esc_rom": "r", "esc_rom_nombre": "rieul", "nombre": "리을", "pron": "/r/ /l/", "url": "ㄹ" },
+    { "id": 27, "jamo": "ㅂ", "tipo": "consonante", "esc_rom": "b", "esc_rom_nombre": "bieup", "nombre": "비읍", "pron": "/b/ /p/", "url": "ㅂ" },
+    { "id": 34, "jamo": "ㅍ", "tipo": "consonante", "esc_rom": "ph", "esc_rom_nombre": "pieup", "nombre": "피읖", "pron": "/ph'/", "url": "ㅍ" },
+    { "id": 30, "jamo": "ㅈ", "tipo": "consonante", "esc_rom": "j", "esc_rom_nombre": "jieut", "nombre": "지읒", "pron": "/dj/ /t/", "url": "ㅈ" },
+    { "id": 31, "jamo": "ㅊ", "tipo": "consonante", "esc_rom": "ch", "esc_rom_nombre": "chieut", "nombre": "치읓", "pron": "/ch'/ /t/", "url": "ㅊ" },
+    { "id": 35, "jamo": "ㅎ", "tipo": "consonante", "esc_rom": "h", "esc_rom_nombre": "hieut", "nombre": "히읗", "pron": "/h/ /t/", "url": "ㅎ" }
+]

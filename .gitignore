@@ -1,7 +1,7 @@
 #Owns
 .vscode
 dist
-data
+
 ecosystem.config.json
 
 # Logs

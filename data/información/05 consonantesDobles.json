@@ -1,0 +1,7 @@
+[
+    { "id": 36, "jamo": "ㄲ", "tipo": "consonante", "esc_rom": "kk", "esc_rom_nombre": "ssanggiyeok", "nombre": "쌍기역", "pron": "/kk/", "url": "ㄲ" },
+    { "id": 37, "jamo": "ㄸ", "tipo": "consonante", "esc_rom": "tt", "esc_rom_nombre": "ssangdigeut", "nombre": "쌍디귿", "pron": "/tt/", "url": "ㄸ" },
+    { "id": 38, "jamo": "ㅃ", "tipo": "consonante", "esc_rom": "pp", "esc_rom_nombre": "ssangbieup", "nombre": "쌍비읍", "pron": "/pp/", "url": "ㅃ" },
+    { "id": 39, "jamo": "ㅆ", "tipo": "consonante", "esc_rom": "ss", "esc_rom_nombre": "ssangsiot", "nombre": "쌍시옷", "pron": "/ss/", "url": "ㅆ" },
+    { "id": 40, "jamo": "ㅉ", "tipo": "consonante", "esc_rom": "tch", "esc_rom_nombre": "ssangjieut", "nombre": "쌍지읒", "pron": "/tch/", "url": "ㅉ" }
+]

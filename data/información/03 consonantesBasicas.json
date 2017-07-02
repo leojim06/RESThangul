@@ -1,0 +1,7 @@
+[
+      { "id": 22, "jamo": "ㄱ", "tipo": "Consonante", "esc_rom": "g", "esc_rom_nombre": "giyeok", "nombre": "기역", "pron": "/gu/ /k/", "url": "ㄱ" },
+      { "id": 23, "jamo": "ㄴ", "tipo": "Consonante", "esc_rom": "n", "esc_rom_nombre": "nieun", "nombre": "니은", "pron": "/n/", "url": "ㄴ" },
+      { "id": 26, "jamo": "ㅁ", "tipo": "Consonante", "esc_rom": "m", "esc_rom_nombre": "mieum", "nombre": "미음", "pron": "/m/", "url": "ㅁ" },
+      { "id": 28, "jamo": "ㅅ", "tipo": "Consonante", "esc_rom": "s", "esc_rom_nombre": "siot", "nombre": "시옷", "pron": "/s/ /t/", "url": "ㅅ" },
+      { "id": 29, "jamo": "ㅇ", "tipo": "Consonante", "esc_rom": "ng", "esc_rom_nombre": "ieung", "nombre": "이응", "pron": "/ng/", "url": "ㅇ" }
+]

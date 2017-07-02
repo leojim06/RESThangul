@@ -1,0 +1,13 @@
+[
+      { "id": 11, "jamo": "ㅐ", "tipo": "Vocal Doble", "esc_rom_nombre": "ae", "esc_rom": "ae", "nombre": "애", "pron": "/è/", "url": "애" },
+      { "id": 12, "jamo": "ㅔ", "tipo": "Vocal Doble", "esc_rom_nombre": "e", "esc_rom": "e", "nombre": "에", "pron": "/yè/", "url": "에" },
+      { "id": 13, "jamo": "ㅚ", "tipo": "Vocal Doble", "esc_rom_nombre": "oe", "esc_rom": "oe", "nombre": "외", "pron": "/we/", "url": "외" },
+      { "id": 14, "jamo": "ㅟ", "tipo": "Vocal Doble", "esc_rom_nombre": "wi", "esc_rom": "wi", "nombre": "위", "pron": "/wi/", "url": "위" },
+      { "id": 15, "jamo": "ㅒ", "tipo": "Vocal Doble", "esc_rom_nombre": "yae", "esc_rom": "yae", "nombre": "얘", "pron": "/iè/", "url": "얘" },
+      { "id": 16, "jamo": "ㅖ", "tipo": "Vocal Doble", "esc_rom_nombre": "ye", "esc_rom": "ye", "nombre": "예", "pron": "/yié/", "url": "예" },
+      { "id": 17, "jamo": "ㅘ", "tipo": "Vocal Doble", "esc_rom_nombre": "wa", "esc_rom": "wa", "nombre": "와", "pron": "/gua/", "url": "와" },
+      { "id": 18, "jamo": "ㅙ", "tipo": "Vocal Doble", "esc_rom_nombre": "wae", "esc_rom": "wae", "nombre": "왜", "pron": "/wè/", "url": "왜" },
+      { "id": 19, "jamo": "ㅝ", "tipo": "Vocal Doble", "esc_rom_nombre": "weo", "esc_rom": "weo", "nombre": "워", "pron": "/wo^/", "url": "워" },
+      { "id": 20, "jamo": "ㅞ", "tipo": "Vocal Doble", "esc_rom_nombre": "we", "esc_rom": "we", "nombre": "웨", "pron": "/wue/", "url": "웨" },
+      { "id": 21, "jamo": "ㅢ", "tipo": "Vocal Doble", "esc_rom_nombre": "ui", "esc_rom": "ui", "nombre": "의", "pron": "/u^i/", "url": "의" }
+    ]

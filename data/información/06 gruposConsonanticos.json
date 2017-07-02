@@ -1,0 +1,13 @@
+[
+    { "id": 39, "jamo": "ㄳ", "tipo": "Grupo Consonantico", "esc_rom": "x", "esc_rom_nombre": "giyeok siot", "nombre": "기역 시옷", "pron": "/x/", "url": "ㄳ" },
+    { "id": 40, "jamo": "ㄵ", "tipo": "Grupo Consonantico", "esc_rom": "ndj", "esc_rom_nombre": "nieun jieut", "nombre": "니은 지읒", "pron": "/ndj/", "url": "ㄵ" },
+    { "id": 41, "jamo": "ㄶ", "tipo": "Grupo Consonantico", "esc_rom": "nh", "esc_rom_nombre": "nieun hieut", "nombre": "니은 히읗", "pron": "/nh/", "url": "ㄶ" },
+    { "id": 42, "jamo": "ㄺ", "tipo": "Grupo Consonantico", "esc_rom": "lg", "esc_rom_nombre": "rieul giyeok", "nombre": "리을 기억", "pron": "/lg/", "url": "ㄺ" },
+    { "id": 43, "jamo": "ㄻ", "tipo": "Grupo Consonantico", "esc_rom": "lm", "esc_rom_nombre": "rieul mieum", "nombre": "리을 미음", "pron": "/lm/", "url": "ㄻ" },
+    { "id": 44, "jamo": "ㄼ", "tipo": "Grupo Consonantico", "esc_rom": "lb", "esc_rom_nombre": "rieul bieup", "nombre": "리을 비읍", "pron": "/lb/", "url": "ㄼ" },
+    { "id": 45, "jamo": "ㄽ", "tipo": "Grupo Consonantico", "esc_rom": "ls", "esc_rom_nombre": "rieul siot", "nombre": "리을 시옷", "pron": "/ls/", "url": "ㄽ" },
+    { "id": 46, "jamo": "ㄾ", "tipo": "Grupo Consonantico", "esc_rom": "lt", "esc_rom_nombre": "rieul tieut", "nombre": "리을 티읕", "pron": "/lt/", "url": "ㄾ" },
+    { "id": 47, "jamo": "ㄿ", "tipo": "Grupo Consonantico", "esc_rom": "lph", "esc_rom_nombre": "rieul pieup", "nombre": "리을 피읖", "pron": "/lph/", "url": "ㄿ" },
+    { "id": 48, "jamo": "ㅀ", "tipo": "Grupo Consonantico", "esc_rom": "lh", "esc_rom_nombre": "rieul hieut", "nombre": "리을 히읗", "pron": "/lh/", "url": "ㅀ" },
+    { "id": 49, "jamo": "ㅄ", "tipo": "Grupo Consonantico", "esc_rom": "ps", "esc_rom_nombre": "bieup siot", "nombre": "비읍 시옷", "pron": "/ps/", "url": "ㅄ" }
+]
